@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-author: "Nathaniel Grimes"
+author: "Nadav Kempinski"
 format: html
 ---
 
